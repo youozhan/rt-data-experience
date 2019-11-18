@@ -5,6 +5,13 @@ Week 12 - [Module 3 Introduction](https://docs.google.com/presentation/d/1quG3NM
 
 [are.na channel](https://www.are.na/creativity-and-comp-lab-secd-fa19/real-time-data-experience)
 
+[Arduino Feather Setup Guide](https://docs.google.com/document/d/1ZME_o4JVnsBV99tFDiVYJLERD-QCvaDN-dzf0Co8K5o/edit?usp=sharing)
+
+[CCLab 19 Course Page](https://github.com/youozhan/Creativity-and-Comp-Lab.SecD.Fa19)
+
+#### example code
+[Arduino Feather](/Arduino%20Feather)
+
 #### projects
 https://googletrends.github.io/year-in-language/#
 
