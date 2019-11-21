@@ -13,6 +13,8 @@ Week 13 - [Adafruit.io Workshop](https://docs.google.com/presentation/d/1Hxjsd9d
 
 #### example code
 [Arduino Feather](/Arduino%20Feather)
+[twitter API](https://github.com/youozhan/rt-data-experience/tree/master/01_twitter_api_oauth)
+[Chrome Extension](https://github.com/youozhan/rt-data-experience/tree/master/06_with_p5)
 
 #### projects
 https://googletrends.github.io/year-in-language/#
