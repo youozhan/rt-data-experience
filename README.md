@@ -5,6 +5,10 @@ Week 12 - [Module 3 Introduction](https://docs.google.com/presentation/d/1quG3NM
 
 Week 13 - [Adafruit.io Workshop](https://docs.google.com/presentation/d/1Hxjsd9dTlZ7rsSUN6qiQZh8vscT660CQR4ch8NryLvw/edit?usp=sharing)
 
+Precedents - [Slides](https://docs.google.com/presentation/d/1awGWLoMGu2VcjLPCTgT531mqfODZXSKGYlxqPzhsmiw/edit?usp=sharing)
+
+Group Reserach - [Slides](https://docs.google.com/presentation/d/1TTUTnokKYTNSN5PiR3CBzWWRISx7MlGumSogDTa_Muo/edit#slide=id.g75b02bf912_0_68)
+
 [are.na channel](https://www.are.na/creativity-and-comp-lab-secd-fa19/real-time-data-experience)
 
 [Arduino Feather Setup Guide](https://docs.google.com/document/d/1ZME_o4JVnsBV99tFDiVYJLERD-QCvaDN-dzf0Co8K5o/edit?usp=sharing)
