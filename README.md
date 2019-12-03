@@ -36,7 +36,17 @@ https://dataselfie.it/#/
 https://www.creativeapplications.net/objects/twin-objects-devices-for-long-distance-relationships/
 
 #### online data source
+[Google trends](https://trends.google.com/trends/)
 
+[CMU Motion Capture Lab](http://mocap.cs.cmu.edu/search.php?subjectnumber=%&motion=%)
+
+[Statisca](https://www-statista-com.libproxy.newschool.edu/)
+
+[Google - Download your data](https://support.google.com/accounts/answer/3024190?hl=en)
+
+[Instagram - Download your data](https://help.instagram.com/181231772500920)
+
+[Facebook - Download your data](https://www.facebook.com/help/1701730696756992?helpref=hc_global_nav)
 
 #### tools
 https://app.twotone.io
@@ -70,7 +80,19 @@ https://app.twotone.io
 
 [Web APIs and the IoT in Unity](https://www.sitepoint.com/web-apis-and-iot-in-unity/)
 
+[p5 bots library](https://github.com/sarahgp/p5bots)
 
+[Tutorial: Serial Communication with Arduino and p5.js](https://medium.com/@yyyyyyyuan/tutorial-serial-communication-with-arduino-and-p5-js-cd39b3ac10ce)
+
+[Pose Detection in the Browser](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
+
+[Using TensorFlow.js to Train a “Rock-Paper-Scissors” Model](https://heartbeat.fritz.ai/using-tensorflow-js-to-train-a-rock-paper-scissors-model-b5f393b548eb)
+
+[Detecting Images in an AR Experience](https://developer.apple.com/documentation/arkit/detecting_images_in_an_ar_experience)
+
+[Using ARKit and Image Tracking to Augment a Postcard](https://www.viget.com/articles/using-arkit-and-image-tracking/)
+
+[What’s new in Unity ARKit Plugin for ARKit 2](https://blogs.unity3d.com/2018/06/14/whats-new-in-unity-arkit-plugin-for-arkit-2/)
 
 
 
