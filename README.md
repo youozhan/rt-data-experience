@@ -17,7 +17,9 @@ Group Reserach - [Slides](https://docs.google.com/presentation/d/1TTUTnokKYTNSN5
 
 #### example code
 [Arduino Feather](/Arduino%20Feather)
+
 [twitter API](https://github.com/youozhan/rt-data-experience/tree/master/01_twitter_api_oauth)
+
 [Chrome Extension](https://github.com/youozhan/rt-data-experience/tree/master/06_with_p5)
 
 #### projects
@@ -30,6 +32,8 @@ https://www.creativeapplications.net/environment/the-weather-followers-bringing-
 http://www.simonerebaudengo.com/project/addictedproducts
 
 https://dataselfie.it/#/
+
+https://www.creativeapplications.net/objects/twin-objects-devices-for-long-distance-relationships/
 
 #### online data source
 
@@ -47,6 +51,26 @@ https://app.twotone.io
 [Adafruit IO Basics - ESP8266 + Arduino](https://learn.adafruit.com/adafruit-io-basics-esp8266-arduino)
 
 [Adafruit Series - All the Internet of Things](https://youtu.be/EiTcl4VFTA8)
+
+[Adafruit IO Basics - Digital In](https://learn.adafruit.com/adafruit-io-basics-digital-input/overview)
+
+[Adafruit IO Basics - Color](https://learn.adafruit.com/adafruit-io-basics-color/overview)
+
+[Adafruit IO Basics - Servo](https://learn.adafruit.com/adafruit-io-basics-servo/overview)
+
+[Twitter API](https://shiffman.net/a2z/twitter-bots/)
+
+[Twitter API + p5](https://github.com/shiffman/A2Z-F17/tree/master/week4-twitter/01_twitter_api_oauth)
+
+[Chrome Extension Get Started](https://developer.chrome.com/extensions/getstarted)
+
+[Chrome Extension Examples](https://developer.chrome.com/extensions/samples)
+
+[Chrome Extension + p5](https://github.com/shiffman/A2Z-F17/tree/master/week10-chrome-ext/06_with_p5)
+
+[Web APIs and the IoT in Unity](https://www.sitepoint.com/web-apis-and-iot-in-unity/)
+
+
 
 
 
