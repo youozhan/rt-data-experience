@@ -20,7 +20,11 @@ Group Reserach - [Slides](https://docs.google.com/presentation/d/1TTUTnokKYTNSN5
 
 [twitter API](https://github.com/youozhan/rt-data-experience/tree/master/01_twitter_api_oauth)
 
-[Chrome Extension](https://github.com/youozhan/rt-data-experience/tree/master/06_with_p5)
+[Chrome Extension_p5](https://github.com/youozhan/rt-data-experience/tree/master/06_with_p5)
+
+[Chrome_Extension_BrowserHistory](https://github.com/youozhan/rt-data-experience/tree/master/showHistory)
+
+[Chrome_Extension_HistoryOverride](https://chromium.googlesource.com/chromium/src/+/master/chrome/common/extensions/docs/examples/api/history/historyOverride/)
 
 #### projects
 https://googletrends.github.io/year-in-language/#
@@ -34,6 +38,8 @@ http://www.simonerebaudengo.com/project/addictedproducts
 https://dataselfie.it/#/
 
 https://www.creativeapplications.net/objects/twin-objects-devices-for-long-distance-relationships/
+
+https://chrome.google.com/webstore/detail/iconic-history/hfacpfhgpmaifaanbmgbbjkfgelookom?hl=en
 
 #### online data source
 [Google trends](https://trends.google.com/trends/)
@@ -50,6 +56,10 @@ https://www.creativeapplications.net/objects/twin-objects-devices-for-long-dista
 
 #### tools
 https://app.twotone.io
+
+https://d3js.org/
+
+https://firebase.google.com/docs
 
 #### references
 [Welcome to Adafruit IO](https://learn.adafruit.com/welcome-to-adafruit-io/libraries )
@@ -93,6 +103,8 @@ https://app.twotone.io
 [Using ARKit and Image Tracking to Augment a Postcard](https://www.viget.com/articles/using-arkit-and-image-tracking/)
 
 [What’s new in Unity ARKit Plugin for ARKit 2](https://blogs.unity3d.com/2018/06/14/whats-new-in-unity-arkit-plugin-for-arkit-2/)
+
+[Interactive & Dynamic Force-Directed Graphs with D3](https://medium.com/ninjaconcept/interactive-dynamic-force-directed-graphs-with-d3-da720c6d7811)
 
 
 
