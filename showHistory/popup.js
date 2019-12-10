@@ -6,9 +6,9 @@ function setup() {
   buildTypedUrlList("typedUrl_div");
 }
 
-function draw(){
-  background(0);
-}
+// function draw(){
+//   background(0);
+// }
 
 function onAnchorClick(event) {
   chrome.tabs.create({
